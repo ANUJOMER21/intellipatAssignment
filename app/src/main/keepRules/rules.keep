@@ -1,0 +1,10 @@
+-keepclassmembers @kotlinx.serialization.Serializable class com.example.intellipatassignment.** {
+    *** Companion;
+    kotlinx.serialization.KSerializer serializer(...);
+}
+-keep,allowobfuscation interface com.example.intellipatassignment.data.remote.CourseApi
+-keepattributes Signature, InnerClasses, EnclosingMethod, RuntimeVisibleAnnotations, AnnotationDefault
+-assumenosideeffects class android.util.Log {
+    public static int v(...);
+    public static int d(...);
+}

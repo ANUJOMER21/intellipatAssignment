@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Learning Dashboard</string>
+    
+    <string name="login_title">Sign in</string>
+    <string name="login_subtitle">Welcome back. Enter your details to continue.</string>
+    <string name="login_brand">Learning Dashboard</string>
+    <string name="login_tagline">Pick up right where you left off</string>
+    <string name="show_password">Show</string>
+    <string name="hide_password">Hide</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_demo_hint">Demo account: user@intellipat.com / Password1</string>
+    <string name="error_email_empty">Email is required</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_password_empty">Password is required</string>
+    <string name="error_password_short">Password must be at least %1$d characters</string>
+    <string name="error_invalid_credentials">Incorrect email or password</string>
+    
+    <string name="error_offline">You are offline. Check your connection.</string>
+    <string name="error_network">Network problem. Please try again.</string>
+    <string name="error_unauthorized">Your session has expired. Please log in again.</string>
+    <string name="error_forbidden">You don\'t have access to this content.</string>
+    <string name="error_not_found">The requested content could not be found.</string>
+    <string name="error_bad_response">We received an unexpected response. Please try again later.</string>
+    <string name="error_server">Server error. Please try again later.</string>
+    <string name="error_unknown">Something went wrong.</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    
+    <string name="my_courses">My courses</string>
+    <string name="courses_summary">%1$d courses · %2$d of %3$d lessons completed</string>
+    <string name="course_done_badge">Completed</string>
+    <string name="logout">Log out</string>
+    <string name="offline_banner">Offline – showing saved courses</string>
+    <string name="refresh_failed_banner">Couldn\'t refresh. Showing saved courses.</string>
+    <string name="courses_empty_title">No courses yet</string>
+    <string name="courses_empty_message">Courses you enroll in will show up here.</string>
+    <string name="courses_error_title">Couldn\'t load courses</string>
+    <string name="course_instructor">by %1$s</string>
+    <string name="course_lessons">%1$d lessons</string>
+    <string name="course_progress">%1$d%%</string>
+    <string name="continue_course">Continue</string>
+    
+    <string name="back">Back</string>
+    <string name="course_not_found">Course not found</string>
+    <string name="progress_summary">%1$d of %2$d lessons completed</string>
+    <string name="lessons">Lessons</string>
+    <string name="lessons_count">%1$d total</string>
+    <string name="lesson_completed">Completed</string>
+    <string name="lesson_pending">Pending</string>
+    <string name="lesson_sync_pending">Waiting to sync</string>
+    <string name="mark_complete">Mark complete</string>
+    
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_complete_title">Mark lesson as completed?</string>
+    <string name="confirm_complete_message">\"%1$s\" will be marked as completed. This can\'t be undone.</string>
+    <string name="logout_title">Log out?</string>
+    <string name="logout_message">Saved courses and any progress that hasn\'t synced yet will be removed from this device.</string>
+    
+    <string name="updated_at">Updated %1$s</string>
+    <string name="updated_just_now">just now</string>
+    <string name="stale_banner">These courses may be out of date.</string>
+    <string name="sync_rejected_message">Couldn\'t save \"%1$s\". It was reverted.</string>
+    <string name="dismiss">OK</string>
+    <string name="error_mark_failed">Couldn\'t save your progress. Please try again.</string>
+    <string name="course_not_found_message">This course may have been removed. Go back and pull to refresh.</string>
+    <string name="lesson_a11y_completed">Lesson %1$d, completed</string>
+    <string name="lesson_a11y_syncing">Lesson %1$d, completed, waiting to sync</string>
+    <string name="lesson_a11y_pending">Lesson %1$d, not completed</string>
+</resources>

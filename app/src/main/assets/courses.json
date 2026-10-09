@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "progress": 65,
+    "lessons": 20,
+    "lessonItems": [
+      {
+        "id": 101,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 102,
+        "title": "Variables & Data Types",
+        "completed": true
+      },
+      {
+        "id": 103,
+        "title": "Operators",
+        "completed": true
+      },
+      {
+        "id": 104,
+        "title": "Control Flow",
+        "completed": true
+      },
+      {
+        "id": 105,
+        "title": "Loops",
+        "completed": true
+      },
+      {
+        "id": 106,
+        "title": "Functions",
+        "completed": true
+      },
+      {
+        "id": 107,
+        "title": "Lambda Functions",
+        "completed": true
+      },
+      {
+        "id": 108,
+        "title": "Modules & Packages",
+        "completed": true
+      },
+      {
+        "id": 109,
+        "title": "File Handling",
+        "completed": true
+      },
+      {
+        "id": 110,
+        "title": "Exception Handling",
+        "completed": true
+      },
+      {
+        "id": 111,
+        "title": "Lists & Tuples",
+        "completed": true
+      },
+      {
+        "id": 112,
+        "title": "Dictionaries & Sets",
+        "completed": true
+      },
+      {
+        "id": 113,
+        "title": "Comprehensions",
+        "completed": true
+      },
+      {
+        "id": 114,
+        "title": "OOP Basics",
+        "completed": false
+      },
+      {
+        "id": 115,
+        "title": "Inheritance",
+        "completed": false
+      },
+      {
+        "id": 116,
+        "title": "Decorators",
+        "completed": false
+      },
+      {
+        "id": 117,
+        "title": "Generators",
+        "completed": false
+      },
+      {
+        "id": 118,
+        "title": "Virtual Environments",
+        "completed": false
+      },
+      {
+        "id": 119,
+        "title": "Testing with pytest",
+        "completed": false
+      },
+      {
+        "id": 120,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "progress": 40,
+    "lessons": 16,
+    "lessonItems": [
+      {
+        "id": 201,
+        "title": "What is Generative AI",
+        "completed": true
+      },
+      {
+        "id": 202,
+        "title": "Neural Network Basics",
+        "completed": true
+      },
+      {
+        "id": 203,
+        "title": "Transformers",
+        "completed": true
+      },
+      {
+        "id": 204,
+        "title": "Tokenization",
+        "completed": true
+      },
+      {
+        "id": 205,
+        "title": "Prompt Engineering",
+        "completed": true
+      },
+      {
+        "id": 206,
+        "title": "Embeddings",
+        "completed": true
+      },
+      {
+        "id": 207,
+        "title": "Vector Databases",
+        "completed": false
+      },
+      {
+        "id": 208,
+        "title": "Retrieval Augmented Generation",
+        "completed": false
+      },
+      {
+        "id": 209,
+        "title": "Fine-tuning",
+        "completed": false
+      },
+      {
+        "id": 210,
+        "title": "Evaluation Metrics",
+        "completed": false
+      },
+      {
+        "id": 211,
+        "title": "Agents & Tools",
+        "completed": false
+      },
+      {
+        "id": 212,
+        "title": "Safety & Alignment",
+        "completed": false
+      },
+      {
+        "id": 213,
+        "title": "Image Generation",
+        "completed": false
+      },
+      {
+        "id": 214,
+        "title": "Multimodal Models",
+        "completed": false
+      },
+      {
+        "id": 215,
+        "title": "Deployment",
+        "completed": false
+      },
+      {
+        "id": 216,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "progress": 25,
+    "lessons": 28,
+    "lessonItems": [
+      {
+        "id": 301,
+        "title": "HTML Fundamentals",
+        "completed": true
+      },
+      {
+        "id": 302,
+        "title": "CSS Layouts",
+        "completed": true
+      },
+      {
+        "id": 303,
+        "title": "Responsive Design",
+        "completed": true
+      },
+      {
+        "id": 304,
+        "title": "JavaScript Basics",
+        "completed": true
+      },
+      {
+        "id": 305,
+        "title": "DOM Manipulation",
+        "completed": true
+      },
+      {
+        "id": 306,
+        "title": "Async JavaScript",
+        "completed": true
+      },
+      {
+        "id": 307,
+        "title": "TypeScript",
+        "completed": true
+      },
+      {
+        "id": 308,
+        "title": "React Components",
+        "completed": false
+      },
+      {
+        "id": 309,
+        "title": "React State",
+        "completed": false
+      },
+      {
+        "id": 310,
+        "title": "React Router",
+        "completed": false
+      },
+      {
+        "id": 311,
+        "title": "Node.js Basics",
+        "completed": false
+      },
+      {
+        "id": 312,
+        "title": "Express APIs",
+        "completed": false
+      },
+      {
+        "id": 313,
+        "title": "REST Design",
+        "completed": false
+      },
+      {
+        "id": 314,
+        "title": "Authentication",
+        "completed": false
+      },
+      {
+        "id": 315,
+        "title": "SQL Basics",
+        "completed": false
+      },
+      {
+        "id": 316,
+        "title": "PostgreSQL",
+        "completed": false
+      },
+      {
+        "id": 317,
+        "title": "ORMs",
+        "completed": false
+      },
+      {
+        "id": 318,
+        "title": "MongoDB",
+        "completed": false
+      },
+      {
+        "id": 319,
+        "title": "Testing",
+        "completed": false
+      },
+      {
+        "id": 320,
+        "title": "CI/CD",
+        "completed": false
+      },
+      {
+        "id": 321,
+        "title": "Docker",
+        "completed": false
+      },
+      {
+        "id": 322,
+        "title": "Cloud Deployment",
+        "completed": false
+      },
+      {
+        "id": 323,
+        "title": "Caching",
+        "completed": false
+      },
+      {
+        "id": 324,
+        "title": "WebSockets",
+        "completed": false
+      },
+      {
+        "id": 325,
+        "title": "Security Basics",
+        "completed": false
+      },
+      {
+        "id": 326,
+        "title": "Performance",
+        "completed": false
+      },
+      {
+        "id": 327,
+        "title": "Monitoring",
+        "completed": false
+      },
+      {
+        "id": 328,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Data Structures & Algorithms",
+    "instructor": "Emily Clark",
+    "progress": 0,
+    "lessons": 12,
+    "lessonItems": [
+      {
+        "id": 401,
+        "title": "Complexity Analysis",
+        "completed": false
+      },
+      {
+        "id": 402,
+        "title": "Arrays",
+        "completed": false
+      },
+      {
+        "id": 403,
+        "title": "Linked Lists",
+        "completed": false
+      },
+      {
+        "id": 404,
+        "title": "Stacks & Queues",
+        "completed": false
+      },
+      {
+        "id": 405,
+        "title": "Hash Tables",
+        "completed": false
+      },
+      {
+        "id": 406,
+        "title": "Trees",
+        "completed": false
+      },
+      {
+        "id": 407,
+        "title": "Heaps",
+        "completed": false
+      },
+      {
+        "id": 408,
+        "title": "Graphs",
+        "completed": false
+      },
+      {
+        "id": 409,
+        "title": "Sorting",
+        "completed": false
+      },
+      {
+        "id": 410,
+        "title": "Binary Search",
+        "completed": false
+      },
+      {
+        "id": 411,
+        "title": "Recursion",
+        "completed": false
+      },
+      {
+        "id": 412,
+        "title": "Dynamic Programming",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Design Basics",
+    "instructor": "Michael Lee",
+    "progress": 100,
+    "lessons": 6,
+    "lessonItems": [
+      {
+        "id": 501,
+        "title": "Design Thinking",
+        "completed": true
+      },
+      {
+        "id": 502,
+        "title": "User Research",
+        "completed": true
+      },
+      {
+        "id": 503,
+        "title": "Wireframing",
+        "completed": true
+      },
+      {
+        "id": 504,
+        "title": "Visual Hierarchy",
+        "completed": true
+      },
+      {
+        "id": 505,
+        "title": "Prototyping",
+        "completed": true
+      },
+      {
+        "id": 506,
+        "title": "Usability Testing",
+        "completed": true
+      }
+    ]
+  }
+]
